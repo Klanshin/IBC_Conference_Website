@@ -1,0 +1,1 @@
+[0523/221006.808:ERROR:crash_report_database_win.cc(476)] failed to truncate: L’opération demandée n’a pu s’accomplir sur un fichier ayant une section mappée utilisateur ouverte. (0x4C8)
